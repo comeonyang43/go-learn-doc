@@ -11,7 +11,7 @@
 
 这里使用`olivere/elastic`
 
-```sh
+```bash
 # 安装v7的版本
 go get github.com/olivere/elastic/v7
 ```
