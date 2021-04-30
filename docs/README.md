@@ -4,6 +4,5 @@
 
 
 
-### 扫码关注
-
+### 扫码关注，查看更多文章
 ![](https://gitee.com/QingHui/picGo-img-bed/raw/master/img/wxcode.png)
