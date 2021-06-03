@@ -45,6 +45,7 @@
   - [6.bufio(有缓冲的IO)](标准包/6-bufio(有缓冲的IO).md)
   - [7.context(上下文)](标准包/7-context(上下文).md)
   - [8.context(并发辅助)](标准包/8-sync.md)
+  - [9.flag(命令行参数解析)](标准包/9-flag.md)
 
 - **框架开发**
   - [1.框架开发-目录介绍和路由设计](框架开发/1-架开发-目录介绍和路由设计.md)
@@ -63,3 +64,6 @@
   - [7.文件上传](Gin框架/07-文件上传.md)
   - [8.中间件](Gin框架/08-中间件.md)
   - [9.BasicAuth中间件使用](Gin框架/09-BasicAuth中间件使用.md)
+  - [10.日志使用](Gin框架/10-日志使用(logrus+lumberjack).md)
+  - [11.验证器(validator)](Gin框架/11-验证器(validator).md)
+  - [12.更多HTTP服务使用](Gin框架/12-更多HTTP服务使用.md)
