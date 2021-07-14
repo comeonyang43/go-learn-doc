@@ -46,6 +46,16 @@
   - [7.context(上下文)](标准包/7-context(上下文).md)
   - [8.context(并发辅助)](标准包/8-sync.md)
   - [9.flag(命令行参数解析)](标准包/9-flag.md)
+  - [10.viper(配置文件解析)](标准包/10-viper.md)
+  - [11.sort(排序算法)](标准包/11-sort.md)
+  - [12.unicode(字节操作)](标准包/12-unicode.md)
+  - [13.zap(高性能日志包)](标准包/13-zap.md)
+  - [14.bigCache(高性能缓存库)](标准包/14-bigCache.md)
+  - [15.os(系统集成操作)](标准包/15-os.md)
+  - [16.crypto之AES对称加解密](标准包/16-crypto-aes.md)
+  - [17.crypto之RSA非对称加解密](标准包/17-crypto-rsa.md)
+  - [18.结构体匿名字段的Json序列化、反序列化](标准包/18-encoding-json.md)
+  - [19.全功能ORM框架(gorm)](标准包/19-gorm.md)
 
 - **框架开发**
   - [1.框架开发-目录介绍和路由设计](框架开发/1-架开发-目录介绍和路由设计.md)
