@@ -56,6 +56,11 @@
   - [17.crypto之RSA非对称加解密](标准包/17-crypto-rsa.md)
   - [18.结构体匿名字段的Json序列化、反序列化](标准包/18-encoding-json.md)
   - [19.全功能ORM框架(gorm)](标准包/19-gorm.md)
+  - [20.数学函数(math)](标准包/20-math.md)
+  - [21.表格操作(excel)](标准包/21-excel.md)
+  - [22.跨域认证(jwt)](标准包/22-jwt-go.md)
+  - [23.redis操作(go-redis)](标准包/23-go-redis.md)
+  - [24.单元测试(testing)](标准包/24-testing.md)
 
 - **框架开发**
   - [1.框架开发-目录介绍和路由设计](框架开发/1-架开发-目录介绍和路由设计.md)
@@ -64,7 +69,7 @@
   - [4.框架开发-集成日志Logrus](框架开发/4-框架开发-集成日志Logrus.md)
   - [5.框架开发-集成ElasticSearch](框架开发/5-框架开发-集成ElasticSearch.md)
 
-- Gin框架
+- **Gin框架**
   - [1.快速入门](Gin框架/01-快速入门.md)
   - [2.启动流程分析](Gin框架/02-启动流程分析.md)
   - [3.路由初使用](Gin框架/03-路由初使用.md)
@@ -77,3 +82,10 @@
   - [10.日志使用](Gin框架/10-日志使用(logrus+lumberjack).md)
   - [11.验证器(validator)](Gin框架/11-验证器(validator).md)
   - [12.更多HTTP服务使用](Gin框架/12-更多HTTP服务使用.md)
+
+- **Gin框架集成**
+  - [1.集成viper配置解析包](Gin框架/集成/01-viper.md)
+  - [2.集成zap高性能日志](Gin框架/集成/02-zap.md)
+  - [3.集成Gorm全功能ORM框架](Gin框架/集成/03-gorm.md)
+  - [4.集成JWT](Gin框架/集成/04-jwt.md)
+  - [5.集成Redis](Gin框架/集成/05-redis.md)
