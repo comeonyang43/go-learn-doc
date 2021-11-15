@@ -61,6 +61,11 @@
   - [22.跨域认证(jwt)](标准包/22-jwt-go.md)
   - [23.redis操作(go-redis)](标准包/23-go-redis.md)
   - [24.单元测试(testing)](标准包/24-testing.md)
+  - [25.ElasticSearch客户端的实现](标准包/25-es.md)
+  - [26.流行爬虫框架Colly](标准包/26-colly.md)
+  - [27.定时任务管理库Cron](标准包/27-cron.md)
+  - [28.构建现代CLI应用库Cobra](标准包/28-cobra.md)
+  - [29.调试利器pprof使用(上)](标准包/29-pprof.md)
 
 - **框架开发**
   - [1.框架开发-目录介绍和路由设计](框架开发/1-架开发-目录介绍和路由设计.md)
@@ -89,3 +94,12 @@
   - [3.集成Gorm全功能ORM框架](Gin框架/集成/03-gorm.md)
   - [4.集成JWT](Gin框架/集成/04-jwt.md)
   - [5.集成Redis](Gin框架/集成/05-redis.md)
+  
+- **项目篇**
+  - [基金爬虫](项目篇/爬虫/1-desc.md)
+     - [1.项目介绍](项目篇/爬虫/1-desc.md) 
+     - [2.数据模型编写](项目篇/爬虫/2-database.md) 
+     - [3.基金排行爬取](项目篇/爬虫/3-fund-top.md) 
+     - [4.基金详情爬取](项目篇/爬虫/4-fund-detail.md) 
+     - [5.基金持仓爬取](项目篇/爬虫/5-fund-stock.md) 
+     - [6.使用docker-compose部署](项目篇/爬虫/6-docker-push.md) 
