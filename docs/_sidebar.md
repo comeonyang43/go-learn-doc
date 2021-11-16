@@ -96,10 +96,9 @@
   - [5.集成Redis](Gin框架/集成/05-redis.md)
   
 - **项目篇**
-  - [基金爬虫](项目篇/爬虫/1-desc.md)
-     - [1.项目介绍](项目篇/爬虫/1-desc.md) 
-     - [2.数据模型编写](项目篇/爬虫/2-database.md) 
-     - [3.基金排行爬取](项目篇/爬虫/3-fund-top.md) 
-     - [4.基金详情爬取](项目篇/爬虫/4-fund-detail.md) 
-     - [5.基金持仓爬取](项目篇/爬虫/5-fund-stock.md) 
-     - [6.使用docker-compose部署](项目篇/爬虫/6-docker-push.md) 
+  - [1.项目介绍](项目篇/爬虫/1-desc.md) 
+  - [2.数据模型编写](项目篇/爬虫/2-database.md) 
+  - [3.基金排行爬取](项目篇/爬虫/3-fund-top.md) 
+  - [4.基金详情爬取](项目篇/爬虫/4-fund-detail.md) 
+  - [5.基金持仓爬取](项目篇/爬虫/5-fund-stock.md) 
+  - [6.使用docker-compose部署](项目篇/爬虫/6-docker-push.md) 
