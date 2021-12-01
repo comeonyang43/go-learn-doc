@@ -4,7 +4,9 @@
 
 `Excelize` 是 `Go` 语言编写的用于操作 `Office Excel `文档基础库，基于 `ECMA-376，ISO/IEC 29500` 国际标准。可以使用它来读取、写入由 `Microsoft Excel™ 2007` 及以上版本创建的电子表格文档。支持` XLSX / XLSM / XLTM / XLTX` 等多种文档格式，高度兼容带有样式、图片(表)、透视表、切片器等复杂组件的文档，并提供流式读写 `API`，用于处理包含大规模数据的工作簿。可应用于各类报表平台、云计算、边缘计算等系统。使用本类库要求使用的 `Go 语言为 1.15 或更高版本`。
 
-[**源代码: https://github.com/360EntSecGroup-Skylar/excelize **](https://github.com/360EntSecGroup-Skylar/excelize)
+[**源代码: https://github.com/qax-os/excelize **](https://github.com/qax-os/excelize)
+
+[文档:https://xuri.me/excelize/zh-hans/](https://xuri.me/excelize/zh-hans/)
 
 ### 1.2 为什么用`Excelize`
 
@@ -27,13 +29,15 @@
 ### 2.1 安装命令
 
 ```go
-go get github.com/360EntSecGroup-Skylar/excelize
+go get github.com/xuri/excelize/v2
 ```
 
 ### 2.2 Go Modules 安装
 
 ```go
-go get github.com/360EntSecGroup-Skylar/excelize/v2
+// go get github.com/360EntSecGroup-Skylar/excelize/v2
+// 原地址已变更
+go get github.com/xuri/excelize/v2
 ```
 
 ## 3. 表格写入
