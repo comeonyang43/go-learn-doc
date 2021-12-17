@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](https://wm-live-api.oss-cn-beijing.aliyuncs.com/Public/live-admin/author.png)
+![logo](http://go.liuqh.icu/public/author.png)
 
 
 # **LearnGo**
