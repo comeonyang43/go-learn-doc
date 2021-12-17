@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](https://gitee.com/QingHui/picGo-img-bed/raw/master/img/author.png)
+![logo](https://wm-live-api.oss-cn-beijing.aliyuncs.com/Public/live-admin/author.png)
 
 
 # **LearnGo**
