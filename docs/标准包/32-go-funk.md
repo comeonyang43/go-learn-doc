@@ -1,11 +1,3 @@
----
-title: Go常用包(三十二):一个现代的Go工具库
-date: 2021-12-25 12:53:12
-updated: 2021-12-25 12:53:12
-tags: [Go常用包]
-categories: [编程,Go]
----
-
 ## 1. 介绍
 
 `Go-funk` 是基于反射(`reflect `)实现的一个现代`Go`工具库，封装了对`slice/map/struct/string`等的操作。
