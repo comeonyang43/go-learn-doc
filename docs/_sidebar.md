@@ -109,4 +109,5 @@
   - [6.使用docker-compose部署](项目篇/爬虫/6-docker-push.md) 
 - **进阶篇**
   - RPC编程
-    - [1.初步了解RPC](进阶篇/rpc/01-understand)
+    - [1.初步了解RPC](进阶篇/rpc/01-understand.md)
+    - [2.快速使用RPC](进阶篇/rpc/02-use-rpc.md)
