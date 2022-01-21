@@ -111,3 +111,4 @@
   - RPC编程
     - [1.初步了解RPC](进阶篇/rpc/01-understand.md)
     - [2.快速使用RPC](进阶篇/rpc/02-use-rpc.md)
+    - [3.gRPC快速入门](进阶篇/rpc/03-in-grpc.md)
