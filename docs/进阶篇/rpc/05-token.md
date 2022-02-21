@@ -18,8 +18,8 @@ type PerRPCCredentials interface {
 - 步骤一: 编写`proto`文件。
 - 步骤二: 生成`go` 代码。
 - 步骤三: 实现`grpc.PerRPCCredentials`接口。
-- 步骤四: 实现被调用的方法`Test`。
-- 步骤五: 编写验证`token`方法。
+- 步骤四: 编写验证`token`方法。
+- 步骤五: 实现被调用的方法`Test`。
 - 步骤六: 编写服务端代码
 - 步骤七: 编写客户端代码
 - 步骤八: 启动服务 & 发起请求
