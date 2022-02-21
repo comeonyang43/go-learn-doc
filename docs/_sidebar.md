@@ -113,3 +113,4 @@
     - [2.快速使用RPC](进阶篇/rpc/02-use-rpc.md)
     - [3.gRPC快速入门](进阶篇/rpc/03-in-grpc.md)
     - [4.protobuf语法学习](进阶篇/rpc/04-protobuf.md)
+    - [5.Token认证](进阶篇/rpc/05-token.md)
