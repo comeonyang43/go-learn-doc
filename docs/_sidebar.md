@@ -115,3 +115,4 @@
     - [4.protobuf语法学习](进阶篇/rpc/04-protobuf.md)
     - [5.gRPC中的Token认证](进阶篇/rpc/05-token.md)
     - [6.gRPC中的证书认证](进阶篇/rpc/06-tls.md)
+    - [7.gRPC中的截取器](进阶篇/rpc/07-middleware.md)
