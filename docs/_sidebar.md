@@ -70,6 +70,7 @@
   - [31.调试利器pprof使用(下)](标准包/31-trace.md)
   - [32.现代的Go工具库go-funk](标准包/32-go-funk.md)
   - [33.高性能json解析器json-iterator](标准包/33-jsoniter.md)
+  - [34.高性能http客户端fasthttp](标准包/34-fasthttp.md)
 
 - **框架开发**
   - [1.框架开发-目录介绍和路由设计](框架开发/1-架开发-目录介绍和路由设计.md)
