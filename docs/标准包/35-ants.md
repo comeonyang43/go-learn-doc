@@ -132,3 +132,5 @@ PASS
 
 
 
+
+![/public/img/数据类型.png]
