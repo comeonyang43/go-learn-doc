@@ -121,5 +121,5 @@
 - **规范篇**
   - [1.Uber Go规范(一):编码和命名](规范篇/1.uber开发规范一.md)
   - [2.Uber Go规范(二):slice/struct/map](规范篇/2.uber开发规范二.md)
-  - [2.Uber Go规范(三):性能和并发](规范篇/3.uber开发规范三.md)
+  - [3.Uber Go规范(三):性能和并发](规范篇/3.uber开发规范三.md)
 
