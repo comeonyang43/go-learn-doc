@@ -108,7 +108,7 @@ func main() {
 
 #### 1. 开启秒级别后
 
-![](https://gitee.com/QingHui/picGo-img-bed/raw/master/img/20210824114416.png)
+![](./img/20210824114416.png)
 
 
 

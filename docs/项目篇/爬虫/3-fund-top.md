@@ -1,10 +1,10 @@
 ## 1.流程介绍
 
-![](https://gitee.com/QingHui/picGo-img-bed/raw/master/img/20210901190333.png)
+![](./img/20210901190333.png)
 
 ## 2.页面分析
 
-![](https://gitee.com/QingHui/picGo-img-bed/raw/master/img/20210901183654.png)
+![](./img/20210901183654.png)
 
 ## 3. 爬虫脚本
 
@@ -37,7 +37,7 @@ type TopCrawlService struct {
 
 `td:nth-of-type(n)`代表每行的第`n`列，<font color=red>@注意：这里的NetWorth和TopDate,取的都是第3列的数据</font>
 
-![](https://gitee.com/QingHui/picGo-img-bed/raw/master/img/20210901185821.png)
+![](./img/20210901185821.png)
 
 ### 3.2 爬取网页
 
@@ -176,7 +176,7 @@ func addJob(c *cron.Cron) {
 
 ### 5.2 数据表
 
-![](https://gitee.com/QingHui/picGo-img-bed/raw/master/img/20210901192350.png)
+![](./img/20210901192350.png)
 
 
 

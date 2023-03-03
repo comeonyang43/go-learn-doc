@@ -21,7 +21,7 @@
 
 #### 1.2 集成流程
 
-![集成代码流程](https://gitee.com/QingHui/picGo-img-bed/raw/master/img/20210706163200.png)
+![集成代码流程](./img/20210706163200.png)
 
 ### 2.安装
 

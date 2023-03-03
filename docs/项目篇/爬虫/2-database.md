@@ -238,10 +238,10 @@ mysql:
 
 当在配置中,打开`autoMigrate=true`时，成功启动项目后，会创建以下表信息。
 
-![i](https://gitee.com/QingHui/picGo-img-bed/raw/master/img/20210831154957.png)
+![i](./img/20210831154957.png)
 
 ## 7. 表关系图
 
-![](https://gitee.com/QingHui/picGo-img-bed/raw/master/img/20210831155140.png)
+![](./img/20210831155140.png)
 
 

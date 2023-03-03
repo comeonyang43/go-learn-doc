@@ -274,7 +274,7 @@ message UserDetail{
 
 ### 9.3 Idea提示:`Cannot resolve import..`
 
-![](https://gitee.com/QingHui/picGo-img-bed/raw/master/img/image-20220207144714161.png)
+![](./img/image-20220207144714161.png)
 
 
 

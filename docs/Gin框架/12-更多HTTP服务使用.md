@@ -18,7 +18,7 @@ func main() {
 
 #### 1.2 目录结构
 
-![](https://gitee.com/QingHui/picGo-img-bed/raw/master/img/20210530160003.png)
+![](./img/20210530160003.png)
 
 #### 1.3 请求示例
 

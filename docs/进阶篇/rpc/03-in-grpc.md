@@ -6,7 +6,7 @@
 
 ## 2.gRPC技术栈
 
-![](https://gitee.com/QingHui/picGo-img-bed/raw/master/img/image-20220120230734308.png)
+![](./img/image-20220120230734308.png)
 
 > 最底层为`TCP`或`Unix`套接字协议，在此之上是`HTTP/2`协议的实现，然后在`HTTP/2`协议之上又构建了针对`Go`语言的`gRPC`核心库（`gRPC`内核+解释器）。应用程序通过`gRPC`插件生成的`Stub`代码和`gRPC`核心库通信，也可以直接和`gRPC`核心库通信。
 

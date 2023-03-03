@@ -1,6 +1,6 @@
 ## 1. 爬取逻辑流程
 
-![](https://gitee.com/QingHui/picGo-img-bed/raw/master/img/20210903115604.png)
+![](./img/20210903115604.png)
 
 
 
@@ -8,7 +8,7 @@
 
 ### 2.1 分析网页
 
-![](https://gitee.com/QingHui/picGo-img-bed/raw/master/img/20210903142422.png)
+![](./img/20210903142422.png)
 
 ### 2.2 编写结构体
 
@@ -39,7 +39,7 @@ type BasisCrawl struct {
 
 ## 3. 请求流程预览
 
-![](https://gitee.com/QingHui/picGo-img-bed/raw/master/img/20210903150225.png)
+![](./img/20210903150225.png)
 
 
 
@@ -227,7 +227,7 @@ func addJob(c *cron.Cron) {
 
 ## 6. 运行效果
 
-![](https://gitee.com/QingHui/picGo-img-bed/raw/master/img/20210903151151.png)
+![](./img/20210903151151.png)
 
 
 

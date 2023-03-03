@@ -4,9 +4,9 @@
 
 **官方性能测试图**
 
-![](https://gitee.com/QingHui/picGo-img-bed/raw/master/img/20210618164446.png)
+![](./img/20210618164446.png)
 
-![](https://gitee.com/QingHui/picGo-img-bed/raw/master/img/20210618164425.png)
+![](./img/20210618164425.png)
 
 ### 2.安装
 
@@ -254,7 +254,7 @@ func TestCutAndArchive(t *testing.T) {
 
 ##### b. 效果
 
-![](https://gitee.com/QingHui/picGo-img-bed/raw/master/img/20210621181145.png)
+![](./img/20210621181145.png)
 
 > 在代码中设置单文件最大容量为1MB，如上图所示当文件超过`1MB(527+527 > 1024)`时,则分割。
 

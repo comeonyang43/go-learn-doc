@@ -279,6 +279,6 @@ func main() {
 
 #### 3.4 效果
 
-![](https://gitee.com/QingHui/picGo-img-bed/raw/master/img/20210527185343.png)
+![](./img/20210527185343.png)
 
 

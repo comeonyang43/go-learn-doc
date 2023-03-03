@@ -77,7 +77,7 @@ PASS
 
 ##### c.第三方加密验证
 
-![](https://gitee.com/QingHui/picGo-img-bed/raw/master/img/20210630112345.png)
+![](./img/20210630112345.png)
 
 
 
@@ -214,7 +214,7 @@ PASS
 
 ##### c.第三方验证
 
-![](https://gitee.com/QingHui/picGo-img-bed/raw/master/img/20210630112455.png)
+![](./img/20210630112455.png)
 
 
 
@@ -371,7 +371,7 @@ PASS
 
 ##### c.第三方加密验证
 
-![](https://gitee.com/QingHui/picGo-img-bed/raw/master/img/20210630112018.png)
+![](./img/20210630112018.png)
 
 #### 4.2 解密
 

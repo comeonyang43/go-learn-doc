@@ -36,7 +36,7 @@
 
 #### 2.2 集成流程
 
-![集成流程](https://gitee.com/QingHui/picGo-img-bed/raw/master/img/20210706163517.png)
+![集成流程](./img/20210706163517.png)
 
 
 

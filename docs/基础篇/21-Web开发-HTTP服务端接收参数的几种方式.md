@@ -160,9 +160,9 @@ func pathExist(path string) bool  {
 
 ##### 运行结果
 
-![image-20210106172843665](https://gitee.com/QingHui/picGo-img-bed/raw/master/img/image-20210106172843665.png)
+![](https://s2.loli.net/2023/02/14/n6goshmvlzVGSIe.png)
 
-![image-20210106172900613](https://gitee.com/QingHui/picGo-img-bed/raw/master/img/image-20210106172900613.png)
+![](https://s2.loli.net/2023/02/14/H7w5KBatUfuvL1T.png)
 
 ### 3.获取Cookie中的值
 

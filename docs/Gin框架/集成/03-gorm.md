@@ -4,13 +4,13 @@
 
 ### 1.1 集成流程
 
-![](https://gitee.com/QingHui/picGo-img-bed/raw/master/img/20210717125819.png)
+![](./img/20210717125819.png)
 
 
 
 ### 1.2 涉及目录
 
-![](https://gitee.com/QingHui/picGo-img-bed/raw/master/img/20210717135522.png)
+![](./img/20210717135522.png)
 
 ## 2. 配置
 
@@ -282,7 +282,7 @@ func AutoMigrate() {
 
 ### 4.1 调用流程
 
-![](https://gitee.com/QingHui/picGo-img-bed/raw/master/img/20210719112514.png)
+![](./img/20210719112514.png)
 
 ### 4.2 代码实现
 

@@ -67,7 +67,7 @@ func testPprofHeap()  {
 
 #### 2. 访问端口
 
-![](https://gitee.com/QingHui/picGo-img-bed/raw/master/img/20211115172657.png)
+![](./img/20211115172657.png)
 
 ### 2.2 使用:`runtime/pprof`
 
@@ -312,7 +312,7 @@ sudo apt install graphviz
 (pprof) web
 ```
 
-![](https://gitee.com/QingHui/picGo-img-bed/raw/master/img/image-20211115185216123.png)
+![](./img/image-20211115185216123.png)
 
 #### 3.方式二:`-http :port`
 
@@ -321,8 +321,8 @@ sudo apt install graphviz
 ➜ go tool pprof -http :9090  http://127.0.0.1:6060/debug/pprof/heap
 ```
 
-![](https://gitee.com/QingHui/picGo-img-bed/raw/master/img/image-20211115190035409.png)
+![](./img/image-20211115190035409.png)
 
-![](https://gitee.com/QingHui/picGo-img-bed/raw/master/img/image-20211115185854911.png)
+![](./img/image-20211115185854911.png)
 
 

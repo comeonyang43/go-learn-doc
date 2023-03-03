@@ -22,7 +22,7 @@ func ListenAndServe(addr string, handler Handler)
 
 **文件目录如下:**
 
-<img src="https://gitee.com/QingHui/picGo-img-bed/raw/master/img/image-20201228174249803.png" alt="image-20201228174249803" style="zoom:63%;" />
+![](https://s2.loli.net/2023/02/14/eViarYEfubd5QXj.png)
 
 ```go
 package main

@@ -4,7 +4,7 @@
 
 ### 1.1 集成流程
 
-![](https://gitee.com/QingHui/picGo-img-bed/raw/master/img/20210726160804.png)
+![](./img/20210726160804.png)
 
 
 
