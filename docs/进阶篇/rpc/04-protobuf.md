@@ -274,7 +274,7 @@ message UserDetail{
 
 ### 9.3 Idea提示:`Cannot resolve import..`
 
-![](./img/image-20220207144714161.png)
+![](/img/image-20220207144714161.png)
 
 
 

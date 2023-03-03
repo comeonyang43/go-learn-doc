@@ -2,7 +2,7 @@
 
 ### 1.1 示例图
 
-![](./img/image-20211116183312048.png)
+![](/img/image-20211116183312048.png)
 
 ### 1.2 节点颜色
 
@@ -35,7 +35,7 @@
 
 ### 2.1 示例图
 
-![](./img/image-20211116190502651.png)
+![](/img/image-20211116190502651.png)
 
 ### 2.2 含义说明
 
@@ -107,7 +107,7 @@ ROUTINE ======================== 52lu/go-pprof/scenes.UseHeapDemo.func1 in /User
 (pprof) web
 ```
 
-![image-20211116211916470](./img/image-20211116211916470.png)
+![image-20211116211916470](/img/image-20211116211916470.png)
 
 
 
@@ -172,7 +172,7 @@ ROUTINE ======================== 52lu/go-pprof/scenes.compute in /Users/liuqh/Pr
 
 **<font color=red>@注:需要安装graphviz</font>**
 
-![](./img/image-20211116210821560.png)
+![](/img/image-20211116210821560.png)
 
 ## 5. 排查协程泄露
 
@@ -243,7 +243,7 @@ ROUTINE ======================== 52lu/go-pprof/scenes.errorUse.func1 in /Users/l
 (pprof) web
 ```
 
-![](./img/image-20211116215540363.png)
+![](/img/image-20211116215540363.png)
 
 
 
@@ -341,7 +341,7 @@ ROUTINE ======================== 52lu/go-pprof/scenes.UseMutexDemo.func1 in /Use
 (pprof) web
 ```
 
-![image-20211117151609825](./img/image-20211117151609825.png)
+![image-20211117151609825](/img/image-20211117151609825.png)
 
 ## 7. 排查阻塞操作
 
@@ -361,11 +361,11 @@ func init() {
 
 #### 1. 当前阻塞数量
 
-![](./img/image-20211117163248036.png)
+![](/img/image-20211117163248036.png)
 
 #### 2. 具体阻塞位置
 
-![](./img/image-20211117190151155.png)
+![](/img/image-20211117190151155.png)
 
 ### 7.2 进入交互式
 
@@ -443,7 +443,7 @@ ROUTINE ======================== 52lu/go-pprof/scenes.handle in /Users/liuqh/Pro
 
 ### 7.5 在浏览器中查看
 
-![](./img/image-20211117190256045.png)
+![](/img/image-20211117190256045.png)
 
 
 
