@@ -148,7 +148,7 @@ $ openssl x509 -req -sha256 -CA ca.crt -CAkey ca.key -CAcreateserial -days 365 \
 
 ## 4. 目录结构
 
-![](/img/image-20220224121150599.png)
+![](https://go.liuqh.icu/img/image-20220224121150599.png)
 
 
 

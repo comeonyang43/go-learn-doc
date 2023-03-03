@@ -1,6 +1,6 @@
 ## 1. 爬取流程
 
-![爬取流程](/img/20210907115003.png)
+![爬取流程](https://go.liuqh.icu/img/20210907115003.png)
 
 
 
@@ -8,11 +8,11 @@
 
 ### 2.1 分页网页
 
-![页面数据展示](/img/20210907115245.png)
+![页面数据展示](https://go.liuqh.icu/img/20210907115245.png)
 
 
 
-![数据接口返回](/img/20210907115624.png)
+![数据接口返回](https://go.liuqh.icu/img/20210907115624.png)
 
 <font color=red>@注意：这次爬取的网页数据是通过ajax加载，所以不能直接使用OnHtml抓取。</font>
 
@@ -39,7 +39,7 @@ type StockPercentageRowsCrawl struct {
 
 ### 3.1 请求流程图
 
-![请求流程图](/img/20210907161728.png)
+![请求流程图](https://go.liuqh.icu/img/20210907161728.png)
 
 
 
@@ -283,13 +283,13 @@ func addJob(c *cron.Cron) {
 
 ## 5. 运行效果
 
-![](/img/20210907163940.png)
+![](https://go.liuqh.icu/img/20210907163940.png)
 
-![](/img/20210907163708.png)
+![](https://go.liuqh.icu/img/20210907163708.png)
 
 
 
-![](/img/20210907164350.png)
+![](https://go.liuqh.icu/img/20210907164350.png)
 
 
 

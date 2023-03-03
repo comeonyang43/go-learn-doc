@@ -279,6 +279,6 @@ func main() {
 
 #### 3.4 效果
 
-![](/img/20210527185343.png)
+![](https://go.liuqh.icu/img/20210527185343.png)
 
 

@@ -53,7 +53,7 @@ func collyUseTemplate() {
 
 ### 3.3 回调函数注册顺序
 
-![image-20210819234814412](/img/image-20210819234814412.png)
+![image-20210819234814412](https://go.liuqh.icu/img/image-20210819234814412.png)
 
 ### 3.4 使用示例
 
@@ -61,7 +61,7 @@ func collyUseTemplate() {
 
 #### 1. 分析网页
 
-![](/img/20210820154533.png)
+![](https://go.liuqh.icu/img/20210820154533.png)
 
 
 
@@ -154,7 +154,7 @@ func trimSpace(str string) string  {
 
 ###  4.1 配置预览
 
-![](/img/20210820172722.png)
+![](https://go.liuqh.icu/img/20210820172722.png)
 
 ### 4.2 部分配置说明
 
@@ -210,7 +210,7 @@ func (h *HTMLElement) Attr(k string) string
 ```
 
 #### 2. 使用示例
-![](/img/20210820190125.png)
+![](https://go.liuqh.icu/img/20210820190125.png)
 
 
 
@@ -245,7 +245,7 @@ func (h *HTMLElement) ChildAttrs(goquerySelector, attrName string) []string
 
 #### 2. 使用示例
 
-![](/img/20210821151336.png)
+![](https://go.liuqh.icu/img/20210821151336.png)
 
 ```go
 func TestChildAttrMethod(t *testing.T) {

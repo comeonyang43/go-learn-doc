@@ -133,4 +133,4 @@ PASS
 
 
 
-![/public/img/数据类型.png]
+![/publichttps://go.liuqh.icu/img/数据类型.png]

@@ -57,7 +57,7 @@ go test -trace trace.out test/trace_test.go
 
 ### 3.2 第二步:在浏览器中打开
 
-![分析维度](/img/image-20211118195302295.png)
+![分析维度](https://go.liuqh.icu/img/image-20211118195302295.png)
 
 **分析维度说明**
 
@@ -75,7 +75,7 @@ go test -trace trace.out test/trace_test.go
 
 ### 4.1 数据栏总览
 
-![](/img/image-20211129142153290.png)
+![](https://go.liuqh.icu/img/image-20211129142153290.png)
 
 **含义说明：**
 
@@ -90,34 +90,34 @@ go test -trace trace.out test/trace_test.go
 
 ### 4.2 某一时刻协程整体运行情况
 
-![](/img/image-20211129191945502.png)
+![](https://go.liuqh.icu/img/image-20211129191945502.png)
 
 > **由上图可以看出，这个时刻(`946.662607`):  运行中的协程数量为2、可运行的协程数量为1、等待GC的协程为0**
 
 ### 4.3 某一时刻堆内存
 
-![](/img/image-20211129221151476.png)
+![](https://go.liuqh.icu/img/image-20211129221151476.png)
 
 ### 4.4 某一时刻系统线程
 
-![](/img/image-20211129222055337.png)
+![](https://go.liuqh.icu/img/image-20211129222055337.png)
 
 ### 4.5 查看垃圾回收
 
 #### 1.单个垃圾回收
 
-![](/img/image-20211129230729540.png)
+![](https://go.liuqh.icu/img/image-20211129230729540.png)
 
 #### 2.查看多个垃圾回收
 
 > 选中多个垃圾回收，则可查看多个垃圾回收信息
 
-![](/img/image-20211129231221679.png)
+![](https://go.liuqh.icu/img/image-20211129231221679.png)
 
 
 #### 3.部分协程功能说明
 
-![](/img/image-20211130.png)
+![](https://go.liuqh.icu/img/image-20211130.png)
 
 - **`proc start`**: 代表启动新线程或从系统调用恢复。
 
@@ -145,7 +145,7 @@ go test -trace trace.out test/trace_test.go
 
 ### 4.6 查看具体协程运行信息
 
-![](/img/image-20211129183333708.png)
+![](https://go.liuqh.icu/img/image-20211129183333708.png)
 
 **含义说明：**
 
@@ -166,7 +166,7 @@ go test -trace trace.out test/trace_test.go
 
 ### 5.1 详情查看
 
-![](/img/image-20211130103051365.png)
+![](https://go.liuqh.icu/img/image-20211130103051365.png)
 
 ### 5.2 字段说明
 
@@ -236,4 +236,4 @@ func main() {
 
 ### 6.2 查看详情
 
-![](/img/image-20211130224039381.png)
+![](https://go.liuqh.icu/img/image-20211130224039381.png)

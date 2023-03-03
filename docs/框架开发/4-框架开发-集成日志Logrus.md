@@ -249,7 +249,7 @@ func (l LogController) Test() error  {
 
 ### 5.效果图
 
-![image-20210308164422910](/img/image-20210308164422910.png)
+![image-20210308164422910](https://go.liuqh.icu/img/image-20210308164422910.png)
 
 
 ### 6.相关地址

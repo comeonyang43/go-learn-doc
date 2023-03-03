@@ -18,14 +18,14 @@ func main() {
 
 #### 1.2 目录结构
 
-![](/img/20210530160003.png)
+![](https://go.liuqh.icu/img/20210530160003.png)
 
 #### 1.3 请求示例
 
 ```bash
 # 请求图片
-http://127.0.0.1:8080/img/b.jpg
-http://127.0.0.1:8080/img/c.jpg
+http://127.0.0.1:8080https://go.liuqh.icu/img/b.jpg
+http://127.0.0.1:8080https://go.liuqh.icu/img/c.jpg
 # 请求文件
 http://127.0.0.1:8080/favicon.ico
 ```

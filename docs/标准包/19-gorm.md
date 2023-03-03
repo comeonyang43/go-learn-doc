@@ -544,5 +544,5 @@ func TestUseManualTx(t *testing.T) {
 
 <font color=red>@注意: 在实践中发现，执行时虽然事务失败，但是主键依然递增。具体看下图效果:</font>
 
-![](/img/20210714184151.png)
+![](https://go.liuqh.icu/img/20210714184151.png)
 

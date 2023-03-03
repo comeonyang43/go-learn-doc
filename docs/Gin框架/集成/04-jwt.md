@@ -6,7 +6,7 @@
 
 ### 1.2 集成示意图
 
-![image-20210723174102427](/img/20210723174103.png)
+![image-20210723174102427](https://go.liuqh.icu/img/20210723174103.png)
 
 ## 2. 配置
 
@@ -188,7 +188,7 @@ func ParseToken(tokenString string) (*request.UserClaims, error) {
 
 ## 4. 注册路由
 
-![注册路由流程](/img/20210723180519.png)
+![注册路由流程](https://go.liuqh.icu/img/20210723180519.png)
 
 ### 4.1 不需要登录路由
 
@@ -239,7 +239,7 @@ func Login(ctx *gin.Context) {
 
 #### 3. 请求返回
 
-![](/img/20210723183016.png)
+![](https://go.liuqh.icu/img/20210723183016.png)
 
 ### 4.2 需要登录路由
 
@@ -279,7 +279,7 @@ func GetUser(ctx *gin.Context) {
 
 #### 3. 请求返回
 
-![](/img/20210723183127.png)
+![](https://go.liuqh.icu/img/20210723183127.png)
 
 <font color=blue>关注【猿码记】微信公众号，回复【gin集成】获取源码。</font>
 
