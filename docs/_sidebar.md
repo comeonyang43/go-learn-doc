@@ -110,7 +110,7 @@
   - [5.基金持仓爬取](项目篇/爬虫/5-fund-stock.md) 
   - [6.使用docker-compose部署](项目篇/爬虫/6-docker-push.md) 
 - **进阶篇**
-  - RPC编程
+  - 1.RPC编程
     - [1.初步了解RPC](进阶篇/rpc/01-understand.md)
     - [2.快速使用RPC](进阶篇/rpc/02-use-rpc.md)
     - [3.gRPC快速入门](进阶篇/rpc/03-in-grpc.md)
@@ -118,6 +118,12 @@
     - [5.gRPC中的Token认证](进阶篇/rpc/05-token.md)
     - [6.gRPC中的证书认证](进阶篇/rpc/06-tls.md)
     - [7.gRPC中的截取器](进阶篇/rpc/07-middleware.md)
+  - 2.Go深入
+    - [1.编译器](进阶篇/Go深入/01.编译器.md)
+    - [2.字符串](进阶篇/Go深入/02.字符串.md)
+    - [3.切片](进阶篇/Go深入/03.切片.md)
+    - [4.map上篇](进阶篇/Go深入/04.map上篇.md)
+    - [5.map下篇](进阶篇/Go深入/05.map下篇.md)
 - **规范篇**
   - [1.Uber Go规范(一):编码和命名](规范篇/1.uber开发规范一.md)
   - [2.Uber Go规范(二):slice/struct/map](规范篇/2.uber开发规范二.md)
