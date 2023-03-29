@@ -2,7 +2,7 @@
 
 `cobra`是一个用来构建现代CLI工具的库。相比`flag`标准库，它提供更多方便的特性和功能。`Cobra` 由 `Go` 项目成员和 `hugo` 作者 [spf13](https://link.juejin.cn/?target=https%3A%2F%2Fgithub.com%2Fspf13) 创建，已经被许多流行的 `Go` 项目采用，比如 [GitHub CLI](https://link.juejin.cn/?target=https%3A%2F%2Fgithub.com%2Fcli%2Fcli) 和 [Docker CLI](https://link.juejin.cn/?target=https%3A%2F%2Fgithub.com%2Fdocker%2Fcli)。
 
-> 源码地址: https://github.com/spf13/cobra，截止到现在`Star 23.8K`
+> 源码地址: [点击查看源码，截止到现在`Star23.8K`](https://github.com/spf13/cobra)
 
 ### 1.1 特性预览
 

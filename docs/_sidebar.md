@@ -44,7 +44,7 @@
   - [5.ioutil(IO操作函数集)](标准包/5-ioutil(IO操作函数集).md)
   - [6.bufio(有缓冲的IO)](标准包/6-bufio(有缓冲的IO).md)
   - [7.context(上下文)](标准包/7-context(上下文).md)
-  - [8.context(并发辅助)](标准包/8-sync.md)
+  - [8.sync(并发辅助)](标准包/8-sync.md)
   - [9.flag(命令行参数解析)](标准包/9-flag.md)
   - [10.viper(配置文件解析)](标准包/10-viper.md)
   - [11.sort(排序算法)](标准包/11-sort.md)
