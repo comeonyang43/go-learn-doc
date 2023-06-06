@@ -125,6 +125,7 @@
     - [4.map上篇](进阶篇/Go深入/04.map上篇.md)
     - [5.map下篇](进阶篇/Go深入/05.map下篇.md)
     - [6.延迟函数defer](进阶篇/Go深入/06.defer.md)
+    - [7.协程由来](进阶篇/Go深入/07.协程由来.md)
 - **规范篇**
   - [1.Uber Go规范(一):编码和命名](规范篇/1.uber开发规范一.md)
   - [2.Uber Go规范(二):slice/struct/map](规范篇/2.uber开发规范二.md)
